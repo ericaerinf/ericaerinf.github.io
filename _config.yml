@@ -12,10 +12,12 @@ description: > # this means to ignore newlines until "baseurl:"
   This site is serving as a learning space for the creation
   of static websites and hopefully as an archive of learning, ideas, projects and works in progress 
   for the future.
-#baseurl: "ericaerinf.github.io" # the subpath of your site, e.g. /blog
-url: "https://ericaerinf.github.io" # the base hostname & protocol for your site
-
+#baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://ericaerinf.com" # the base hostname & protocol for your site
+twitter_username:
 github_username: ericaerinf
+permalink: /:title
 
 # Build settings
-
+markdown: kramdown
+port: 4000
