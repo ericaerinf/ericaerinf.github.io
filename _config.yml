@@ -10,8 +10,8 @@ title: Erica Fremming
 email: ericafremming@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is a learning space for creating static sites :)
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "http://ericafremming.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username:  ericaerinf
 
